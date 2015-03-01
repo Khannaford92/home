@@ -1,12 +1,15 @@
 h1 {
   color: #4c3566;
+  font-family: Century Gothic;
 }
 h2 {
   color: #4c3566;
+  font-family: Baskerville;
 }
 a {
   text-decoration: none;
   color: black;
+  font-family: Palatino Linotype;
 }
 body {
   background-color: #bcc4c4;
