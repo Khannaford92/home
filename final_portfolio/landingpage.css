@@ -4,8 +4,8 @@ body {
 }
 #rightbody {
   float: right;
-  width: 622px;
-  height: 500px;
+  width: 612px;
+  height: 550px;
   background-color: #406251;
   border-left: 4px solid black;
   padding-bottom: 10px;
@@ -33,8 +33,8 @@ a:hover {
 }
 #leftbody {
   background-color: #5F465F;
-  width: 637px;
-  height: 500px;
+  width: 632px;
+  height: 550px;
   padding-bottom: 10px;
   border-right: 4px solid black;
   opacity: .8;
