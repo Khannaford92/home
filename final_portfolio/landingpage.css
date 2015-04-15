@@ -13,7 +13,7 @@ body {
   position: relative
 }
 #nav {
-  margin-left: 300px;
+  margin-left: 290px;
 }
 #nav li {
   display: inline;
@@ -48,7 +48,7 @@ a:hover {
 	display: inline-block;
 	border-radius: 100%;
 	margin-left: 100px;
-	margin-top: 70px;
+	margin-top: 140px;
   padding-top: 50px;
 	text-align: center;
   background-color: white;
@@ -56,6 +56,6 @@ a:hover {
 #homephoto img {
  width: 350px;
  margin-left: 785px;
- margin-top: 80px;
+ margin-top: 150px;
  position: absolute;
 }
