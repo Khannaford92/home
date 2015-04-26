@@ -1,7 +1,8 @@
 body {
 background-image: url("https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/11156401_10152856998855678_1790666047074064614_n.jpg?oh=ba8b5dea63b5ae653430086522bb1a9c&oe=55D58E50&__gda__=1439440317_0cbb32bf57a9c585da401d28be9916b2");
 background-size: 100%;
-height: 1500px;
+repeat: none;
+height: 1000px;
 }
 #hlandingpage {
   font-family: Baskerville;
