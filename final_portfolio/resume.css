@@ -39,8 +39,9 @@ a {
   padding-top: 15px;
   padding-bottom: 15px;
 }
-a:hover {
+#nav a:hover {
   background-color: #406251;
+  color: white;
 }
 #content {
   float: left;
