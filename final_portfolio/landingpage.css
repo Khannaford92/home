@@ -18,6 +18,8 @@ ul {
   margin-left: -19px;
   margin-top: -20px;
   font-family: Baskerville;
+  font-size: 20px;
+  color: #919191;
 }
 li a {
 	text-decoration: none;
