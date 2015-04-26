@@ -25,7 +25,6 @@ header h3 {
 #nav {
   border: 1px solid black;
   background-color: gray;
-  margin-top: 50px;
 }
 li {
   display: inline;
