@@ -16,13 +16,14 @@ h4 {
 }
 ul {
   margin-left: 890px;
-  margin-top: -250px;
+  margin-top: -220px;
   font-family: Baskerville;
   font-size: 25px;
   color: #919191;
 }
 li {
 display: inline;
+color: #919191
 a {
 	color: #919191;
 	text-decoration: none;
