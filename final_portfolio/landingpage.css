@@ -16,7 +16,7 @@ h4 {
 }
 ul {
   margin-left: 890px;
-  margin-top: 250px;
+  margin-top: -250px;
   font-family: Baskerville;
   font-size: 25px;
   color: #919191;
@@ -24,6 +24,6 @@ ul {
 li {
 display: inline;
 a {
-	color: 919191;
+	color: #919191;
 	text-decoration: none;
 }	
