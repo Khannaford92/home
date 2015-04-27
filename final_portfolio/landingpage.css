@@ -24,6 +24,7 @@ ul {
 li {
 display: inline;
 color: #919191
+text-decoration: none;
 a {
 	color: #919191;
 	text-decoration: none;
