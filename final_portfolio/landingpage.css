@@ -15,12 +15,14 @@ h4 {
   margin-top: -20px;
 }
 ul {
-  margin-left: -19px;
-  margin-top: -20px;
+  margin-left: 890px;
+  margin-top: 250px;
   font-family: Baskerville;
-  font-size: 20px;
+  font-size: 25px;
   color: #919191;
 }
+li {
+display: inline;
 a {
 	color: 919191;
 	text-decoration: none;
