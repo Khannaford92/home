@@ -1,8 +1,7 @@
 body {
-background-image: url("https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/11156401_10152856998855678_1790666047074064614_n.jpg?oh=ba8b5dea63b5ae653430086522bb1a9c&oe=55D58E50&__gda__=1439440317_0cbb32bf57a9c585da401d28be9916b2");
+  background-image: url(https://s-media-cache-ak0.pinimg.com/736x/60/a9/ef/60a9ef4dc03ad22e48b521cd2481b779.jpg);
 background-size: 100%;
-repeat: none;
-height: 1000px;
+height: 1500px;
 }
 #hlandingpage {
   font-family: Baskerville;
@@ -15,19 +14,21 @@ h4 {
   margin-top: -20px;
 }
 ul {
-  margin-top: -220px;
-  width: 1225px;
-  background-color: black
-  opacity: .8;
+  margin-top: -250px;
   font-family: Baskerville;
   font-size: 25px;
-  color: #919191;
+  width: 1225px;
+  border: 1px solid black;
+  text-align: right;
+  padding-right: 3px;
+  background-color: black;
+  opacity: .8;
+  
 }
 li {
-display: inline;
-color: #919191
-text-decoration: none;
-a {
-	color: #919191;
-	text-decoration: none;
-}	
+  display: inline;
+  color: white;
+}
+a:hover {
+  color: green;
+}
