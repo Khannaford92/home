@@ -6,7 +6,7 @@ height: 1500px;
 #hlandingpage {
   font-family: Baskerville;
   font-size: 30px;
-  margin-top: 20px;
+  margin-top: 5px;
   float: left;
 }
 ul {
@@ -20,12 +20,14 @@ ul {
   padding-right: 3px;
   background-color: black;
   opacity: .8;
-  
+  color: white;
 }
 li {
   display: inline;
-  color: white;
 }
+a {
+color: white;
+display: none;
 a:hover {
   color: green;
 }
