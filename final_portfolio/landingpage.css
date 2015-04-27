@@ -6,10 +6,11 @@ height: 1500px;
 #hlandingpage {
   font-family: Baskerville;
   font-size: 30px;
-  margin-top: 30px;
+  margin-top: 50px;
+  float: left;
 }
 ul {
-  margin-top: -240px;
+  margin-top: 20px;
   font-family: Baskerville;
   font-size: 25px;
   width: 1225px;
