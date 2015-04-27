@@ -6,8 +6,10 @@ height: 1500px;
 #hlandingpage {
   font-family: Baskerville;
   font-size: 30px;
-  margin-top: 5px;
   float: left;
+}
+h3 {
+margin-top: -5px;
 }
 ul {
   margin-top: 20px;
