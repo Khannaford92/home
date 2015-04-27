@@ -28,6 +28,7 @@ li {
 a {
 color: white;
 display: none;
+}
 a:hover {
   color: green;
 }
