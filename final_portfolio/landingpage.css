@@ -66,7 +66,7 @@ img {
   font-family: Garamond;
 }
 #container {
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.7);
   width: 1266px;
   height: 600px;
 }
@@ -75,4 +75,8 @@ header {
   color: white;
   padding-left: 5px;
   font-family: Big Caslon;
+}
+h3 {
+font-family: Big Calson;
+color: #E00938;
 }
