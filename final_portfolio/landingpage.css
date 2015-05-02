@@ -118,3 +118,10 @@ color: #E00938;
   margin-left: 800px;
   margin-top: -595px;
 }
+#media {
+  text-align: center;
+  margin-top: 150px;
+}
+#media img {
+  width: 60px;
+}
