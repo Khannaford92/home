@@ -1,7 +1,7 @@
 body {
   background-image: url(https://s-media-cache-ak0.pinimg.com/736x/5d/ea/d4/5dead44384372a46ba4bc425d83f187e.jpg);
 background-size: 100%;
-height: 650px;
+height: 660px;
 }
 #hlandingpage {
   font-family: Big Caslon;
@@ -45,4 +45,34 @@ a:hover {
 } 
 span {
   color: #7738D6;
+}
+#headshot {
+  margin-left: 50px;
+}
+img {
+  width: 450px;
+}
+#twitter {
+  float: right;
+  margin-right: 50px;
+  margin-top: -456px;
+}
+#about {
+  width: 500px;
+  margin-left: 520px;
+  margin-top: -400px;
+  color: white;
+  font-size: 20px;
+  font-family: Garamond;
+}
+#container {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 1266px;
+  height: 600px;
+}
+header {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding-left: 5px;
+  font-family: Big Caslon;
 }
