@@ -9,7 +9,7 @@ height: 660px;
   color: white;
   width: 700px;
   height: 250px;
-  margin-top: 150px;
+  margin-top: 200px;
   margin-left: 280px;
   padding: 10px;
   text-align: center;
@@ -55,12 +55,12 @@ img {
 #twitter {
   float: right;
   margin-right: 50px;
-  margin-top: -456px;
+  margin-top: -406px;
 }
 #about {
   width: 500px;
   margin-left: 520px;
-  margin-top: -400px;
+  margin-top: -350px;
   color: white;
   font-size: 20px;
   font-family: Garamond;
