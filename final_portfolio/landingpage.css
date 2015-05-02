@@ -92,3 +92,28 @@ color: #E00938;
 #resume h2 {
   margin-left: 190px;
 }
+#editing {
+  margin-left: 15px;
+  width: 300px;
+  color: white;
+  font-family: Garamond;
+  font-size: 17px;
+}
+#editing img {
+  width: 300px;
+}
+#writing {
+  width: 250px;
+  margin-left: 450px;
+  margin-top: -570px;
+  color: white;
+  font-family: Garamond;
+  font-size: 17px;
+}
+#writing img {
+  width: 250px;
+}
+#additional {
+  margin-left: 800px;
+  margin-top: -595px;
+}
