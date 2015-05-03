@@ -85,6 +85,9 @@ color: #E00938;
 #resume {
   margin-left: 415px;
 }
+#resume a {
+text-decoration: underline;
+}
 #resume p {
   font-size: 20px;
   margin-left: 65px;
@@ -100,6 +103,9 @@ color: #E00938;
   font-family: Garamond;
   font-size: 17px;
 }
+#editing a {
+text-decoration: underline;
+}
 #editing img {
   width: 300px;
 }
@@ -110,6 +116,9 @@ color: #E00938;
   color: white;
   font-family: Garamond;
   font-size: 17px;
+}
+#writing a {
+text-decoration: underline;
 }
 #writing img {
   width: 250px;
